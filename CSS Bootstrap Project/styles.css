@@ -1,0 +1,33 @@
+.containerMain
+{
+    text-align: center;
+}
+
+.card-title
+{
+    font-size: 50px;
+}
+
+.card-text
+{
+    margin: auto;
+}
+
+.btn-outline-primary
+{
+    margin-top: 15px;
+}
+
+.btn-primary
+{
+    margin-top: 15px;
+}
+
+.cardContainer
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-evenly;
+}

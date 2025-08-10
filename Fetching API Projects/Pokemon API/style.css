@@ -1,0 +1,41 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #f0f0f0; 
+}
+
+.container {
+  text-align: center;
+  border: 2px solid black;
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px black;
+  transition: 0.3s;
+}
+
+.container:hover
+{
+    cursor: pointer;
+    box-shadow: 0 0 20px black;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+h2 {
+  color: rgb(203, 154, 248);
+}
+
+p {
+  color: rgb(58, 10, 104);
+}
+
+#PokeImage {
+  height: 200px;
+  border: 2px solid black;
+}

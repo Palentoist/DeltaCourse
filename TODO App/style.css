@@ -1,0 +1,39 @@
+#btn
+{
+    color: white;
+    background-color: darkgoldenrod;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#btn2
+{
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#btn2:hover
+{
+    background-color: rgb(202, 112, 112);
+}
+
+#inp
+{
+    height: 30px;
+    width: 200px;
+}
+
+#btn:hover
+{
+background-color: rgb(218, 179, 80);
+}

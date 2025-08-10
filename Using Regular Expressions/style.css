@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+    border: 2px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+#btn
+{
+    color: white;
+    background-color: brown;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#CasesContainer
+{
+    text-align: justify;
+}
+
+.green
+{
+    color: green;
+}
+
+.red
+{
+    color: red;
+}

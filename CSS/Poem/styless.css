@@ -1,0 +1,43 @@
+body
+{
+    background-color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p
+{
+    display: flex;
+    color: brown;
+    justify-content: center;
+    line-height: 30px;
+}
+
+h1 
+{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+h3
+{
+    display: flex;
+    justify-content: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(20, 206, 20);
+}
+
+button
+{
+    background-color: white;
+    color: blueviolet;
+}
+
+span
+{
+    text-decoration: underline;
+}

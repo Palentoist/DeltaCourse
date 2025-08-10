@@ -1,0 +1,41 @@
+.container
+{
+    background-color: orange;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
+
+#LeftEye
+{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 130px;
+}
+
+#rightEye
+{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 320px;
+}
+
+#mouth
+{
+    background-color: crimson;
+    height: 100px;
+    width: 250px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    position: absolute;
+    top: 300px;
+    left: 125px;
+}
